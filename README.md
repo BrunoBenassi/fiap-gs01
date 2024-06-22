@@ -27,5 +27,6 @@ http://localhost:8080/peixes
 
 ## Contatos
 
-Bruno Benassi Schwab https://github.com/BrunoBenassi/fiap-gs1
+Bruno Benassi Schwab https://github.com/BrunoBenassi/fiap_gs11
 # fiap-gs01
+# fiap_gs01
